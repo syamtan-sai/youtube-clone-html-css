@@ -20,23 +20,13 @@ Clicking on a thumbnail redirects the user to the **actual YouTube video**.
 
 ---
 
-## 📂 Project Structure
-
-youtube-clone-html-css/
-│── index.html # Main HTML page
-│── style.css # Styling for the page
-│── /images # Thumbnail images
-
-
----
-
 ## 🚀 Live Demo
-[View Project Here](#) _(Add your GitHub Pages or Netlify link here)_
+[View Project Here](https://syamtan-sai.github.io/youtube-clone-html-css/)
 
 ---
 
 ## 📸 Screenshots
-_(Add a screenshot of your homepage here for better visual appeal)_
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8ff196f-7631-4ed1-9a34-08604010915b" />
 
 ---
 
