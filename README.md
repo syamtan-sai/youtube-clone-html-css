@@ -44,13 +44,3 @@ Clicking on a thumbnail redirects the user to the **actual YouTube video**.
 
 ---
 
-## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License** – free to use and modify.
-
----
-
