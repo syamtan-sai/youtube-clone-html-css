@@ -7,8 +7,8 @@ Clicking on a thumbnail redirects the user to the **actual YouTube video**.
 ---
 
 ## 📌 Features
-- Responsive homepage layout similar to YouTube
-- 20 clickable video thumbnails
+- Homepage layout similar to YouTube
+- Clickable video thumbnails
 - Navigation bar with search box and icons
 - Simple and clean HTML & CSS structure
 
@@ -26,7 +26,8 @@ Clicking on a thumbnail redirects the user to the **actual YouTube video**.
 ---
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8ff196f-7631-4ed1-9a34-08604010915b" />
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/61166887-2754-4ef1-86c7-257e83f900b5" />
+
 
 ---
 
